@@ -1,0 +1,11 @@
+body{
+    background-image:url(media/pngtree-creative-cartoon-vegetable-background-picture-image_1317261.jpg);
+    background-size: cover;
+}
+input {
+    background-color: transparent
+  }
+  h1{
+    color:tomato;
+    text-decoration: underline;
+  }
